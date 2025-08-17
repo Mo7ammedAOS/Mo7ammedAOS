@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Mo7ammedAOS
-- 👀 I’m interested in python backend
-- 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me org3700@gmail.com
+- 👋 Hi, I’m Mohammed Osman (@Mo7ammedAOS)
+- 🔍 Exploring Data Science & Machine Learning
+- 🌱 Currently building ML projects with Flask and deployment-ready workflows
+- 💡 Interested in real-world applications in business and AI
+- 🤝 Open to collaborating on data-driven projects
+- 📫 Reach me at mohammedossidahmed@gmail.com
 
